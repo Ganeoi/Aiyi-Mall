@@ -1,4 +1,4 @@
-# shopping-mall
+# 基于Vue主流框架和vue-cli构建的移动端商城
 
 ## Project setup
 ```
